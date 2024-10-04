@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gameTitle" type="id" />
+    <item name="gameDescription" type="id" />
+    <item name="pinInput" type="id" />
+    <item name="confirmButton" type="id" />
+</resources>
