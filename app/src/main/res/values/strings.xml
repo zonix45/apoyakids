@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApoyaKids</string>
+    <string name="welcome_to_apoyakids">Bienvenido a ApoyaKids</string>
+    <string name="start_game">Iniciar Juego</string>
+    <string name="parent_control">Control Parental</string>
+    <string name="game_screen">Pantalla del Juego</string>
+    <string name="parent_control_screen">Pantalla de Control Parental</string>
+</resources>
