@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gameTitle" type="id" />
+    <item name="gameDescription" type="id" />
+    <item name="pinInput" type="id" />
+    <item name="confirmButton" type="id" />
+    <item name="sudoku_button" type="id" />
+    <item name="tetris_button" type="id" />
+    <item name="startGameButton" type="id" />
+    <item name="editTextPin" type="id" />
+    <item name="btnEnter" type="id" />
+    <item name="tetris_grid" type="id" />
+    <item name="pause_button" type="id" />
+    <item name="sudoku_grid" type="id" />
+    <item name="start_game_button" type="id"></item>
+    <item name="solve_button" type="id"></item>
+    <item name="reset_button" type="id"></item>
+</resources>
